@@ -1,0 +1,4 @@
+day*/Cargo.*
+day*/target/
+day*/src/
+day*/.gitignore
